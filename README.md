@@ -23,7 +23,6 @@ This repository contains coursework for the **Knowledge Discovery and Data Minin
     git clone https://github.com/your-username/kddm-coursework.git
     ```
 2. Navigate to the desired assignment or project folder.
-3. Follow instructions in each folder's README (if available) for setup and execution.
 
 ## License
 
