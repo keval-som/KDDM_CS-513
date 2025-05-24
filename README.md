@@ -20,7 +20,7 @@ This repository contains coursework for the **Knowledge Discovery and Data Minin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/kddm-coursework.git
+    git clone https://github.com/keval-som/KDDM_CS-513.git
     ```
 2. Navigate to the desired assignment or project folder.
 
